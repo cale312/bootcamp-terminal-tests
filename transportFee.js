@@ -14,5 +14,3 @@ module.exports = function(fee) {
       break;
             }
 }
-var shift = transportFee('nightshift');
-console.log(shift);
