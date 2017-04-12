@@ -1,0 +1,1 @@
+var countAllFromTown = require('../countAllFromTown.js');

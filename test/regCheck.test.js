@@ -1,0 +1,1 @@
+var regCheck = require('../regCheck.js');

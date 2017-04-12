@@ -1,0 +1,1 @@
+var countRegNumber = require('../countRegNumber.js');
